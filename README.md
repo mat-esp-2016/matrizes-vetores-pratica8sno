@@ -70,3 +70,10 @@ Por isso, faça commits de suas mudanças ao notebook.
 * **Descreva o que (e por que) você fez** em comentários e células de texto.
   Isso será muito útil quando você voltar a essa tarefa depois.
 * Preste atenção aos **detalhes**. Leia as instruções com atenção.
+
+## License
+
+All content can be freely used and adapted under the terms of the 
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
